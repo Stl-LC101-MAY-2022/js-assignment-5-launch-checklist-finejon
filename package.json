@@ -19,6 +19,7 @@
     "browserify": "^17.0.0"
   },
   "dependencies": {
+    "@angular/cli": "^12.2.18",
     "jsdom": "^16.4.0"
   }
 }
